@@ -1,8 +1,15 @@
-+++
-date = '2026-04-04T09:56:20+01:00'
-draft = true
-title = 'Riceandbeans'
-+++
+---
+title: "Vegetarian Mexican Rice and Beans"
+weight: 1
+# bookFlatSection: false
+# bookToc: true
+# bookHidden: false
+# bookCollapseSection: false
+# bookComments: false
+# bookSearchExclude: false
+# bookHref: ''
+# bookIcon: ''
+---
 
 # Mexican-Style One-Pot Rice & Beans
 *Naturally Gluten-Free & Vegetarian*

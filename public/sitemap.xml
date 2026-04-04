@@ -2,9 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://richardsrecipies.co.uk/docs/riceandbeans/</loc>
+  </url><url>
     <loc>http://richardsrecipies.co.uk/categories/</loc>
   </url><url>
-    <loc>http://richardsrecipies.co.uk/recipies/</loc>
+    <loc>http://richardsrecipies.co.uk/docs/</loc>
   </url><url>
     <loc>http://richardsrecipies.co.uk/</loc>
   </url><url>
