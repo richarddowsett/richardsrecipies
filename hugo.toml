@@ -1,0 +1,9 @@
+baseURL = 'http://richardsrecipies.co.uk'
+locale = 'en-uk'
+title = '''Richard's Recipies'''
+theme = 'hugo-book'
+
+[deployment]
+  [[deployment.targets]]
+    name = 'aws'
+    url = 's3://richardsrecipiesbucket?region=eu-north-1'

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recipies on Richard&#39;s Recipies</title>
+    <link>http://richardsrecipies.co.uk/recipies/</link>
+    <description>Recent content in Recipies on Richard&#39;s Recipies</description>
+    <generator>Hugo</generator>
+    <language>en-uk</language>
+    <atom:link href="http://richardsrecipies.co.uk/recipies/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
