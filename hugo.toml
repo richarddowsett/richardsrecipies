@@ -1,12 +1,12 @@
 baseURL = 'http://richardsrecipies.co.uk'
 locale = 'en-uk'
-title = '''Richard's Recipies'''
+title = '''Richard's Recipes'''
 theme = 'hugo-book'
 
 [params]
   enableGitInfo = true
   BookTheme = 'dark'
-  BookSection = 'recipies'
+  BookSection = 'recipes'
 
 [deployment]
   [[deployment.targets]]
